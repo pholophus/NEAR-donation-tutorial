@@ -3,7 +3,7 @@ Donation
 
 Our donation example enables to forward money to an account while keeping track of it.It is one of the simplest examples on making a contract receive and send money, and the perfect gateway to enter the world of decentralized finance.
 
-![img](/assets/images/donation-7cf65e5e131274fd1ae9aa34bc465bb8.png)
+![img](https://docs.near.org/assets/images/donation-7cf65e5e131274fd1ae9aa34bc465bb8.png)
 
 * * *
 
@@ -55,7 +55,7 @@ Interacting With the dApp[​](#interacting-with-the-dapp "Direct link to headin
 
 Go ahead and login with your NEAR account. If you don't have one, you will be able to create one in the moment. Once logged in, input the amount of NEAR you want to donate and press the donate button. You will be redirected to the NEAR Wallet to confirm the transaction. After confirming it, the donation will be listed in the "Latest Donations".
 
-![img](/assets/images/donation-7cf65e5e131274fd1ae9aa34bc465bb8.png) _Frontend of the Donation App_
+![img](https://docs.near.org/assets/images/assets/images/donation-7cf65e5e131274fd1ae9aa34bc465bb8.png) _Frontend of the Donation App_
 
 * * *
 
